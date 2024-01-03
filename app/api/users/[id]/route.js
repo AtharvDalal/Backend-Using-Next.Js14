@@ -6,6 +6,6 @@ export const GET = async(req)=>{
         console.log(id);
         console.log(users)
     } catch (error) {
-        
+        console.log();
     }
 }
